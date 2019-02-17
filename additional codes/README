@@ -1,1 +1,1 @@
-test
+The program "solveEquation.py" generates the file "data.txt". You can find the file "data.txt" in the folder "pythonCodes" so you do not need to use the code "solveEquation.py" unless you want to generate the file "data.txt" yourself. To use the code "solveEquation.py" you have to create a .txt file and indicate the path of the file on line 3 of the python code.
