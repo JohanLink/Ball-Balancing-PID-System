@@ -1,6 +1,6 @@
 # Ball-Balancing-PID-System
 
-To support the project : https://www.fantasticobject.com/products/babot 
+To support the project : https://www.ba-bot.com
 
 ![image](images/DSC_4337.JPG)
 
