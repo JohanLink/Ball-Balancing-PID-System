@@ -1,7 +1,5 @@
 # Ball-Balancing-PID-System
 
-To support the project : https://www.ba-bot.com
-
 ![image](images/DSC_4337.JPG)
 
 
